@@ -1,0 +1,6 @@
+.cpcache/*
+.idea/*
+.nrepl-port
+honeycomb-aleph.iml
+honeycomb-opentelemetry-javaagent-1.0.0.jar
+target/*

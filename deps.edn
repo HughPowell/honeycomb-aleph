@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {aleph/aleph {:mvn/version "0.4.7"}}
+ :aliases {:build {:deps {io.github.clojure/tools.build {:git/tag "v0.8.1" :git/sha "7d40500"}}
+                   :ns-default build}}}

@@ -1,0 +1,3 @@
+honeycomb.api.key=
+honeycomb.dataset=
+service.name=
